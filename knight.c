@@ -7,6 +7,7 @@
 
 #include "queue.h"
 #define SIZE 8
+//#define SIZE 16
 
 /*Checa se o cavalo está dentro dos limites do tabuleiro*/
 int valid_pos (int x, int y)
