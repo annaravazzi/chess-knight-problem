@@ -3,4 +3,4 @@ Por: Anna Carolina Ravazzi Martins (RA: 2235250)
 
 Menor distância para um cavalo chegar de um ponto a outro no tabuleiro de xadrez
 
-Relatório em vídeo: 
+Relatório em vídeo: https://youtu.be/rR1akJZcdrc
