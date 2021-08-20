@@ -82,6 +82,13 @@ int main ()
 	//int x_src = 5, y_src = 2, x_dest = 2, y_dest = 4;
 	//int x_src = 4, y_src = 0, x_dest = 13, y_dest = 11;
 
+	/*Checa se as coordenadas de origem e destino são válidas*/
+	if(!valid_pos(x_src, y_src) || !valid_pos(x_dest, y_dest))
+	{
+		printf("Error: starting and/or finishing coordinates out of boundaries\n");
+		exit(1);
+	}
+	
 	/*O pior caso para a fila é ter que enfileirar todas as células do tabuleiro,
 	  então seu tamanho é SIZE x SIZE*/
 	Queue *q = create_queue(SIZE*SIZE);
