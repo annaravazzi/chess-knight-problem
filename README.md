@@ -1,6 +1,8 @@
 # Trabalho Prático Estrutura de Dados 1
 Por: Anna Carolina Ravazzi Martins (RA: 2235250)
+
 Professor: Rodrigo Minetto
+
 Curso de engenharia da computação UTFPR
 
 Descrição do projeto:
